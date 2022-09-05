@@ -10,7 +10,6 @@
 
 .header {
     display: flex;
-    flex-direction: row;
     justify-content: space-between;
     align-items: center;
     width: 1170px;
@@ -30,11 +29,8 @@
 
 .ul-header {
     display: flex;
-    align-items: center;
     list-style: none;
-    justify-content: space-between;
-    flex-direction: row;
-    padding-right: 300px;
+
 }
 
 .ul-header li {
